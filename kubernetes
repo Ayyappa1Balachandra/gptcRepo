@@ -10,3 +10,8 @@ systemctl start jenkins
 systemctl status Jenkins
 yum install git -y
 
+k8s topics:
+1.HPA
+2.Autoscaling
+3.RS
+
